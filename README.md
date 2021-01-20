@@ -1,10 +1,11 @@
-# Calculator
+# iPhone Style Calculator
 
----
+## Description
 
+This is a iPjone style calculator for parctice some JS :)
 
-```code
-<calculator/>
-```
+**Note:** This project is my practice based on other resources.  
 
-This is a project that I do from frontendmaster site by B.holt.
+### Live demo
+
+Click [here](https://mahmood-kn.github.io/iPhone-style-calculator/ "Calculator") to see the live demo of this project.
